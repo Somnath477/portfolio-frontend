@@ -25,7 +25,7 @@ export const Contact = () => {
 
     setLoading(true);
     try {
-     await axios.post("https://portfolio-backend-production-4a9a.up.railway.app//api/messages", form);
+     await axios.post("https://portfolio-backend-production-4a9a.up.railway.app/api/messages", form);
 
       setSent(true);
       setForm({ name: "", email: "", message: "" });
