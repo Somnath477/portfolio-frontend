@@ -1,7 +1,7 @@
 import React, { useMemo } from "react";
 import { motion } from "framer-motion";
 
-const BACKEND_URL = "http://localhost:5000";
+const BACKEND_URL = "https://portfolio-backend-production-4a9a.up.railway.app";
 
 export const Hero = ({ onHireMeClick }) => {
   // Generate particle styles once
