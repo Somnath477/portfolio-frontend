@@ -1,9 +1,9 @@
 export const experience = [
   {
-    company: "Freelancer",
-    role: "Frontend Developer",
-    period: "Mar 2024 – Present",
-    years: 1,
+    company: "Ascent Engineers",
+    role: "Software Developer",
+    period: " Aug 2024 – Present",
+    years: 1.6,
     tech: ["React", "Tailwind", "MongoDB", "Node", "Postman"],
     highlights: [
       "Developed modern responsive UIs",
