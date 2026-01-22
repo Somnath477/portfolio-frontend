@@ -31,7 +31,7 @@ export const Hero = ({ onHireMeClick }) => {
 
   const handleDownloadResume = (format = "pdf") => {
     const filename =
-      format === "pdf" ? "Somnath_Resume.pdf" : "Somnath_Resume.docx";
+      format === "pdf" ? "Somnath_Chakraborty_Updated_Resume (Front End).pdf" : "Somnath_Chakraborty_Updated_Resume (Front End).docx";
 
     const link = document.createElement("a");
     link.href = `${BACKEND_URL}/resume/${filename}`;
