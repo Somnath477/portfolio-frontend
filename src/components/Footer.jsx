@@ -24,7 +24,7 @@ export const Footer = () => {
         <span>© {new Date().getFullYear()} Somnath Chakraborty</span>
         <div style={{ display: "flex", gap: "0.75rem" }}>
           <a
-            href="https://www.linkedin.com/in/somnathchakraborty245497176/"
+            href="https://www.linkedin.com/in/somnath-chakraborty-245497176/"
             target="_blank"
             rel="noreferrer"
           >
