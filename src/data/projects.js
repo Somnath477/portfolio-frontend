@@ -28,7 +28,7 @@ export const projects = [
     tech: ["React", "JavaScript", "Tailwind CSS"],
     link: "https://todo-list477.vercel.app/",
     github: "https://github.com/Somnath477/todo-list",
-    image: "/project-images/taskflow.png",
+    image: "/project-images/todo.png",
   },
   {
     id: 4,
