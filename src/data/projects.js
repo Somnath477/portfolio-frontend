@@ -43,12 +43,12 @@ export const projects = [
   {
     id: 5,
     title: "Ecommerce Website",
-    role: "Full Stack",
+    role: "FrontEnd",
     summary:
-      "Full Working End to End Functional Ecommerce Website.",
-    tech: ["React", "Node.js", "Express.js", "MongoDB"],
-    link: "",
-    github: "",
-    image: "/project-images/ai-business.png",
+      "Full Working End to End Functional Ecommerce Website with user ids store in local storage.",
+    tech: ["React Js", "JavaScript", "TailwindCss"],
+    link: "https://neo-store-ecommerce.vercel.app/",
+    github: "https://github.com/Somnath477/NeoStore_Ecommerce",
+    image: "/project-images/ecommerce.png",
   },
 ];
